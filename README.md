@@ -4,9 +4,7 @@ This is a primary Hello World program, written in the object-oriented programmin
 
 This program is a demonstration of Visual Studio Code, GitHub, and Python joined together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Hello World Program - Demo Video](http://youtube.link.goes.here)
+[Hello World Program - Video Demonstration](https://youtu.be/u2Ynl9h-d2c)
 
 # Development Environment
 
